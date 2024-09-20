@@ -1,3 +1,7 @@
+![ViewCount](https://views.whatilearened.today/views/github/angelaL8a/BetWise-Analytics.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/angelaL8a/BetWise-Analytics?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/angelaL8a/BetWise-Analytics?style=flat)
+
 # 🎲 BetWise: Data Pipeline & Analytics Project 💡  
 <img src="https://github.com/angelaL8a/BetWise-Analytics/blob/main/betwise.gif" alt="Peak Betting Hours" width="100%"/>  
 
