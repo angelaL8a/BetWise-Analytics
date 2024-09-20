@@ -20,7 +20,7 @@ A new customer signed a contract and requires us to process their data and perfo
 
 This stage focuses on **Data Analytics** for a client in the sports betting industry. The analysis was conducted on a dataset containing transaction details, including player bets, odds, outcomes, and more.
 
-**Key Insights**:
+#### **Key Insights**:
 
 **High Proportion of Losses in Live Bets**  
 <img src="https://github.com/angelaL8a/BetWise-Analytics/blob/main/Stage_2_Data_Analytics/assets/PL1.png" alt="Players Bet Type Preferences" width="600"/>  
@@ -31,7 +31,7 @@ This stage focuses on **Data Analytics** for a client in the sports betting indu
 **Consistent Currency Usage**  
 <img src="https://github.com/angelaL8a/BetWise-Analytics/blob/main/Stage_2_Data_Analytics/assets/PL3.png" alt="Currency Distribution" width="600"/>  
 
-**Player Preferences in Bet Types**
+**Player Preferences in Bet Types**  
 <img src="https://github.com/angelaL8a/BetWise-Analytics/blob/main/Stage_2_Data_Analytics/assets/PL4.png" alt="Preferences in Bet Types" width="600"/>  
 
 **Peak Betting Hours**  
@@ -76,10 +76,6 @@ The repository is divided into two main stages:
 - **Cloud Platform**: AWS (preferred)
 - **Programming Languages**: Python (for Data Analytics).
 - **Tools**: Jupyter Notebooks & Plotly.
-
----
-
-Here’s an updated version of the **"How to Use this Repository"** section, ensuring it aligns with your project's structure:
 
 ---
 
