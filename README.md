@@ -1,4 +1,5 @@
-# 🎲 BetWise: Data Pipeline & Analytics Project 💡
+# 🎲 BetWise: Data Pipeline & Analytics Project 💡  
+<img src="https://github.com/angelaL8a/BetWise-Analytics/blob/main/betwise.gif" alt="Peak Betting Hours" width="100%"/>  
 
 Welcome to the **BetWise** repository! This project encompasses the design and implementation of a robust **Data Pipeline** for handling large-scale analytics and **Data Analytics** focusing on sports betting trends across multiple websites. The repository is structured in two key stages:
 
