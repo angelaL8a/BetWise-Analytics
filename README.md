@@ -6,6 +6,7 @@ Welcome to the **BetWise** repository! This project encompasses the design and i
 
 ## 🚀 Project Overview
 
+
 ### 📁 Stage 1: Data Pipeline Design 🏗️
 
 In this stage, we design and implement a data pipeline to process customer information across multiple locations. The pipeline automates the **ETL/ELT process** to facilitate seamless data transfer from the **Operations Center** to the **Analytics Center**.
@@ -14,7 +15,9 @@ In this stage, we design and implement a data pipeline to process customer infor
 A new customer signed a contract and requires us to process their data and perform analytics to deliver valuable business insights. The analytics team has no direct access to the Operations Center, and the data must be replicated daily in **batch mode** using a custom API. The pipeline handles daily transfers of high-volume transactional data, ensuring secure and scalable processing.
 
 🔹 **Pipeline Flow**: Data moves from Location 1 (Operations Center) to Location 2 (Analytics Center) via a secured API that allows pulling 5,000 records per call. The pipeline is designed to automate this flow and ensure data integrity.  
-🔹 **Technologies Used**: AWS for cloud infrastructure, custom ETL/ELT strategies, secured data replication protocols.
+🔹 **Technologies Used**: AWS for cloud infrastructure, custom ETL/ELT strategies, secured data replication protocols.  
+
+
 
 ### 📁 Stage 2: Data Analytics 📊
 
