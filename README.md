@@ -22,16 +22,16 @@ This stage focuses on **Data Analytics** for a client in the sports betting indu
 
 **Key Insights**:
 
-1. **High Proportion of Losses in Live Bets**
-   <img src="https://github.com/angelaL8a/BetWise-Analytics/blob/main/Stage_2_Data_Analytics/assets/PL1.png" alt="Players Bet Type Preferences" width="600"/>
-2. **Impact of Betting Odds on Outcomes**
-  <img src="https://github.com/angelaL8a/BetWise-Analytics/blob/main/Stage_2_Data_Analytics/assets/PL2.png" alt="Betting Odds Impact" width="600"/>
-3. **Consistent Currency Usage**
-  <img src="https://github.com/angelaL8a/BetWise-Analytics/blob/main/Stage_2_Data_Analytics/assets/PL3.png" alt="Currency Distribution" width="600"/>
+1. **High Proportion of Losses in Live Bets**  
+<img src="https://github.com/angelaL8a/BetWise-Analytics/blob/main/Stage_2_Data_Analytics/assets/PL1.png" alt="Players Bet Type Preferences" width="600"/>
+2. **Impact of Betting Odds on Outcomes**  
+<img src="https://github.com/angelaL8a/BetWise-Analytics/blob/main/Stage_2_Data_Analytics/assets/PL2.png" alt="Betting Odds Impact" width="600"/>
+3. **Consistent Currency Usage**  
+<img src="https://github.com/angelaL8a/BetWise-Analytics/blob/main/Stage_2_Data_Analytics/assets/PL3.png" alt="Currency Distribution" width="600"/>
 4. **Player Preferences in Bet Types**
-    <img src="https://github.com/angelaL8a/BetWise-Analytics/blob/main/Stage_2_Data_Analytics/assets/PL4.png" alt="Preferences in Bet Types" width="600"/>
-5. **Peak Betting Hours**
-   <img src="https://github.com/angelaL8a/BetWise-Analytics/blob/main/Stage_2_Data_Analytics/assets/PL5.png" alt="Peak Betting Hours" width="600"/>
+<img src="https://github.com/angelaL8a/BetWise-Analytics/blob/main/Stage_2_Data_Analytics/assets/PL4.png" alt="Preferences in Bet Types" width="600"/>
+5. **Peak Betting Hours**  
+<img src="https://github.com/angelaL8a/BetWise-Analytics/blob/main/Stage_2_Data_Analytics/assets/PL5.png" alt="Peak Betting Hours" width="600"/>
 
 ---
 
